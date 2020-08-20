@@ -1,0 +1,3 @@
+2	102	Ethan	70
+3	205	Girish	60
+1	101	Deepak	50

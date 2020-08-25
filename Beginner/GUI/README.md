@@ -1,1 +1,1 @@
-## Contains GUI programs made using Tkinter Library of Python
+## Contains Simple Programs which demonstrate usage of  Tkinter Library of Python
